@@ -1,0 +1,24 @@
+{
+  "name": "polaczenie-z-baza",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kogasz/Polaczenie-z-baza.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kogasz/Polaczenie-z-baza/issues"
+  },
+  "homepage": "https://github.com/Kogasz/Polaczenie-z-baza#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
